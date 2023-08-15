@@ -1,5 +1,4 @@
-<h1 align="center" id="title">Online Job Portal</h1>
-
+<h1 align="center" id="title">🌐 Online Job Portal</h1>
 <p align="center"><img src="https://socialify.git.ci/sahiljawale54/onlinejobportal/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 Welcome to the 🌐 Online Job Portal! This web application bridges the gap between job seekers and employers, making job searching and posting a breeze. Whether you're seeking your dream job or finding the perfect candidate, this platform has got you covered.
@@ -12,7 +11,29 @@ Welcome to the 🌐 Online Job Portal! This web application bridges the gap betw
 
 - **Profile Launchpad**: 📝 Job seekers can craft stellar profiles showcasing their talents, expertise, and journey.
 
+- **Application Warp Speed**: ⚡ Job seekers can warp-speed apply to jobs by submitting their profiles and resumes seamlessly.
+
 - **Universal Communication**: 📬 Employers and job seekers can intergalactically communicate through built-in messaging features.
+
+- **Notification Nebula**: 🌌 Stay notified about application status updates, new job planets, and cosmic messages.
+
+## 📸 Project Screenshots
+
+![Job Search](https://github.com/sahiljawale54/onlinejobportal/assets/108802783/ea7b30f7-27e7-4ea9-87ea-9ced395c01bf)
+
+![image](https://github.com/sahiljawale54/onlinejobportal/assets/108802783/462183ab-6755-4ba3-a51b-5ff31f1e9c89)
+
+![image](https://github.com/sahiljawale54/onlinejobportal/assets/108802783/056fe209-f6f5-4054-a9ec-85cc213f41cb)
+
+![image](https://github.com/sahiljawale54/onlinejobportal/assets/108802783/908e2377-da1f-4c49-9bdb-41f19f3d3feb)
+
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: PHP , XAMPP
+- **Database**: MySQL
+- **Version Control**: Git, GitHub
 
 
 ## 🌌 Installation Odyssey
